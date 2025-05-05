@@ -29,8 +29,8 @@ Evaluate model performance.
 Visualize predictions.
 
 ## PROGRAM
-### Name : Gokularamanan K
-### Register Number : 21222230040
+### Name : SARGURU K
+### Register Number : 212222230134
 ```python
 class BiLSTMTagger(nn.Module):
   def __init__(self, vocab_size, tagset_size, embedding_dim = 50, hidden_dim = 100):
@@ -85,12 +85,12 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/778ed537-c874-4b13-b114-55a397427bb7)
+![image](https://github.com/user-attachments/assets/e5e3a29f-5b55-4325-94dc-47e2e04a0667)
 
 
 
 ### Sample Text Prediction
-![image](https://github.com/user-attachments/assets/82167c50-3b98-4f05-b3f6-9de7931320b8)
+![image](https://github.com/user-attachments/assets/3c9f0f75-6067-4b7c-ad76-add0a829a90e)
 
 
 
